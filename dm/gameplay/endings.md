@@ -10,4 +10,4 @@ If the players kill the Lich, the game is over. However, depending on how they k
 
 ### Players stay in the village for too long and go mad
 
-> **HowToAchieve:** If the players don't manage to
+> **HowToAchieve:** If the players don't manage to find and kill the Lich before the required number of days, the players will go insane thanks to their [PANIC](panic.md) meter filling up.
